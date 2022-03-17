@@ -1,0 +1,289 @@
+% This file was created with JabRef 2.6.
+% Encoding: Cp1252
+
+@STANDARD{Buchmanna,
+  title = {Design of a Cheat-Resistant P2P Online Gaming System},
+  organization = {Databases and Distributed Systems Group},
+  institution = {Technische Universitaet Darmstadt},
+  author = {Patric Kabus Alejandro P. Buchmann},
+  abstract = {Another list of common cheats, will use this and the other to design
+	my test cases},
+  file = {:C\:\\Masters Project\\Papers\\Design of a Cheat-Resistant P2P Online Gaming System.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@STANDARD{Buchmann,
+  title = {Addressing Cheating in Distributed MMOGs},
+  author = {Patric Kabus Wesley W. Terpstra
+	
+	Mariano Cilia Alejandro P. Buchmann},
+  abstract = {Cheat detection},
+  file = {:C\:\\Masters Project\\Papers\\Addressing Cheating in Distributed MMOGs.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@INPROCEEDINGS{Buyukkaya2009,
+  author = {Buyukkaya, Eliya and Abdallah, Maha and Cavagna, Romain},
+  title = {VoroGame: a hybrid P2P architecture for massively multiplayer games},
+  booktitle = {CCNC'09: Proceedings of the 6th IEEE Conference on Consumer Communications
+	and Networking Conference},
+  year = {2009},
+  pages = {1100--1104},
+  address = {Piscataway, NJ, USA},
+  publisher = {IEEE Press},
+  abstract = {Sharing game data storage across the peer to peer network},
+  file = {:C\:\\Masters Project\\Papers\\VoroGame.pdf:PDF},
+  isbn = {978-1-4244-2308-8},
+  location = {Las Vegas, NV, USA},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@ARTICLE{Dolev1986,
+  author = {Dolev, Danny and Lynch, Nancy A. and Pinter, Shlomit S. and Stark,
+	Eugene W. and Weihl, William E.},
+  title = {Reaching approximate agreement in the presence of faults},
+  journal = {J. ACM},
+  year = {1986},
+  volume = {33},
+  pages = {499--516},
+  number = {3},
+  address = {New York, NY, USA},
+  doi = {http://doi.acm.org/10.1145/5925.5931},
+  file = {:C\:\\Masters Project\\Papers\\Reaching Approximate Agreement in the Presence of Faults.pdf:PDF},
+  issn = {0004-5411},
+  owner = {Bryn},
+  publisher = {ACM},
+  timestamp = {2010.06.22}
+}
+
+@STANDARD{F´abioReisCecin,
+  title = {P2PSE project: partially decentralized simulation for instanced MMOGs},
+  author = {F´abio Reis Cecin, Cl´audio Fernando Resin Geyer},
+  abstract = {Extended Peer-to-peer support for instance-based massively multiplayer
+	games.
+	
+	
+	Covers problems with secruity but gives no concrete solution.
+	
+	During "Action" gameplay still gives a hands off approach, giving
+	only the opening state to the clients and asking for the end state
+	after the action is finished},
+  file = {:C\:\\Masters Project\\Papers\\P2PSE project partially decentralized simulation for instanced MMOGs.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.10}
+}
+
+@STANDARD{Hopkins,
+  title = {Peer-to-Peer Support for Massively Multiplayer Games},
+  author = {Bj¨orn Knutsson
+	
+	Honghui Lu
+	
+	Wei Xu
+	
+	Bryan Hopkins},
+  abstract = {Message count heavy, little new material},
+  file = {:C\:\\Masters Project\\Papers\\Peer-to-Peer Support for Massively Multiplayer Games.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@STANDARD{Johannessen,
+  title = {Hybrid Peer-to-Peer Solution for MMORPGs},
+  author = {Frode Voll Aasen
+	
+	Tom-Christian Bjørlo Johannessen},
+  abstract = {Long paper on Peer to Peer MMORPGs, good source material},
+  file = {:C\:\\Masters Project\\Papers\\Hybrid Peer-to-Peer Solution for MMORPGS.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@STANDARD{JohnL.Miller,
+  title = {Avatar Movement in World of Warcraft Battlegrounds},
+  author = {John L. Miller, Jon Crowcroft},
+  abstract = {Movement studie of WoW battlegrounds, interesting read but doesn't
+	really relate},
+  file = {:C\:\\Masters Project\\Papers\\Avatar Movement in World of Warcraft Battlegrounds.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@ARTICLE{Lamport1982,
+  author = {Lamport, Leslie and Shostak, Robert and Pease, Marshall},
+  title = {The Byzantine Generals Problem},
+  journal = {ACM Trans. Program. Lang. Syst.},
+  year = {1982},
+  volume = {4},
+  pages = {382--401},
+  number = {3},
+  __markedentry = {[Bryn]},
+  address = {New York, NY, USA},
+  doi = {http://doi.acm.org/10.1145/357172.357176},
+  file = {:C\:\\Masters Project\\Papers\\The Byzantine Generals Problem.pdf:PDF},
+  issn = {0164-0925},
+  owner = {Bryn},
+  publisher = {ACM},
+  timestamp = {2010.06.22}
+}
+
+@STANDARD{LeslieS.Liu,
+  title = {PartyPeer a P2P Massively Multiplayer Online Game},
+  organization = {Computer Science Department},
+  institution = {University of Southern California},
+  author = {Leslie S. Liu, Roger Zimmermann, Baoxuan Xiao and Jon Christen},
+  abstract = {Not much info on the system used, will have to look at the references},
+  file = {:C\:\\Masters Project\\Papers\\PartyPeer a P2P Massively Multiplayer Online Game.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@STANDARD{LuFan,
+  title = {Design Issues for Peer-to-Peer Massively Multiplayer Online Games},
+  author = {Lu Fan, Phil Trinder, and Hamish Taylor},
+  abstract = {General overview with alot of references and background on P2P},
+  file = {:C\:\\Masters Project\\Papers\\Design Issues for Peer-to-Peer Massively Multiplayer Online Games.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@STANDARD{LutherChan,
+  title = {Hydra A Massively-Multiplayer Peer-to-Peer Architecture for the Game
+	Developer},
+  author = {Luther Chan, James Yong, Jiaqiang Bai, Ben Leong, Raymond Tan},
+  abstract = {Hydra:
+	
+	Based more on supporting failure of servers than improving game state.
+	
+	"cheat prevention for the Hydra architecture remains as future work"},
+  file = {:C\:\\Masters Project\\Papers\\Hydra A Massively-Multiplayer Peer-to-Peer Architecture for the Game Developer.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@STANDARD{MarcosRatesCrippa,
+  title = {Peer-to-peer support for instance-based massively multiplayer games},
+  organization = {Informatics Institute},
+  institution = {Federal University of Rio Grande do Sul},
+  author = {Marcos Rates Crippa, F´abio Reis Cecin, Cl´audio Fernando Resin Geyer},
+  abstract = {Idea of splitting the game world into "social" and "Action" spaces
+	
+	"By only decentralizing the simulation of action spaces, the security
+	
+	problem is greatly simplified" Completely ignores any form of cheating
+	not involving trade.
+	
+	If anything the action spaces are more prone to cheating than the
+	social places (which contain chat and trading)
+	
+	Still under development},
+  file = {:C\:\\Masters Project\\Papers\\Peer-to-peer support for instance-based massively multiplayer games.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@ARTICLE{Pease1980,
+  author = {Pease, M. and Shostak, R. and Lamport, L.},
+  title = {Reaching Agreement in the Presence of Faults},
+  journal = {J. ACM},
+  year = {1980},
+  volume = {27},
+  pages = {228--234},
+  number = {2},
+  address = {New York, NY, USA},
+  doi = {http://doi.acm.org/10.1145/322186.322188},
+  file = {:C\:\\Masters Project\\Papers\\Reaching Agreement in the Presence of Faults.pdf:PDF},
+  issn = {0004-5411},
+  owner = {Bryn},
+  publisher = {ACM},
+  timestamp = {2010.06.22}
+}
+
+@STANDARD{RichardS¨uselbeck,
+  title = {Peer-to-Peer Support for Low-Latency Massively Multiplayer Online
+	Games in the Cloud},
+  organization = {Universit¨at Mannheim},
+  author = {Richard S¨uselbeck, Gregor Schiele and Christian Becker},
+  abstract = {Play mmorpg's in a cloud gaming sense},
+  file = {:C\:\\Masters Project\\Papers\\Peer-to-Peer Support for Low-Latency Massively Multiplayer Online Games in the Cloud.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@STANDARD{ShanikaKarunasekera,
+  title = {P2P Middleware for Massively Multi-player Online Games},
+  author = {Shanika Karunasekera, Scott Douglas, Egemen Tanin, and Aaron Harwood},
+  abstract = {Fairly undescriptive, about the system they've created},
+  file = {:C\:\\Masters Project\\Papers\\P2P Middleware for Massively Multi-player Online Games.pdf:PDF},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@INPROCEEDINGS{Ta2008,
+  author = {Ta, Duong and Zhou, Suiping and Cai, Wentong and Tang, Xueyan and
+	Ayani, Rassul},
+  title = {Network-Aware Server Placement for Highly Interactive Distributed
+	Virtual Environments},
+  booktitle = {DS-RT '08: Proceedings of the 2008 12th IEEE/ACM International Symposium
+	on Distributed Simulation and Real-Time Applications},
+  year = {2008},
+  pages = {95--102},
+  address = {Washington, DC, USA},
+  publisher = {IEEE Computer Society},
+  abstract = {Placement of servers using network info},
+  doi = {http://dx.doi.org/10.1109/DS-RT.2008.31},
+  file = {:C\:\\Masters Project\\Papers\\Network-Aware Server Placement for Highly Interactive Distributed Virtual Environments.pdf:PDF},
+  isbn = {978-0-7695-3425-1},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@INPROCEEDINGS{Ta2009,
+  author = {Ta, Duong Nguyen Binh and Zhou, Suiping and Cai, Wentong and Tang,
+	Xueyan and Ayani, Rassul},
+  title = {Efficient Zone Mapping Algorithms for Distributed Virtual Environments},
+  booktitle = {PADS '09: Proceedings of the 2009 ACM/IEEE/SCS 23rd Workshop on Principles
+	of Advanced and Distributed Simulation},
+  year = {2009},
+  pages = {137--144},
+  address = {Washington, DC, USA},
+  publisher = {IEEE Computer Society},
+  abstract = {Problems of sorting the world space into logical zones},
+  doi = {http://dx.doi.org/10.1109/PADS.2009.10},
+  file = {:C\:\\Masters Project\\Papers\\Efficient Zone Mapping Algorithms for Distributed Virtual Environments.pdf:PDF},
+  isbn = {978-0-7695-3713-9},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@INPROCEEDINGS{Yamamoto2005,
+  author = {Yamamoto, Shinya and Murata, Yoshihiro and Yasumoto, Keiichi and
+	Ito, Minoru},
+  title = {A distributed event delivery method with load balancing for MMORPG},
+  booktitle = {NetGames '05: Proceedings of 4th ACM SIGCOMM workshop on Network
+	and system support for games},
+  year = {2005},
+  pages = {1--8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  abstract = {Sorting of the world into sub space nodes for load balancing, solely
+	based on organising peers in an area.},
+  doi = {http://doi.acm.org/10.1145/1103599.1103610},
+  file = {:C\:\\Masters Project\\Papers\\A Distributed Event Delivery Method with Load Balancing.pdf:PDF},
+  isbn = {1-59593-156-2},
+  location = {Hawthorne, NY},
+  owner = {Bryn},
+  timestamp = {2010.06.07}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+

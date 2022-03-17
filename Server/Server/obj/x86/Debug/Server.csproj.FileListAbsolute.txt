@@ -1,0 +1,10 @@
+C:\Masters Project\Server\Server\bin\x86\Debug\Server.exe
+C:\Masters Project\Server\Server\bin\x86\Debug\Server.pdb
+C:\Masters Project\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Masters Project\Server\Server\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Masters Project\Server\Server\obj\x86\Debug\Server.exe
+C:\Masters Project\Server\Server\obj\x86\Debug\Server.pdb
+C:\Masters Project\Server\Server\bin\x86\Debug\Content\Arial.xnb
+C:\Masters Project\Server\Server\bin\x86\Debug\Content\LEVEL1.xnb
+C:\Masters Project\Server\Server\bin\x86\Debug\ArbitorServer.dll
+C:\Masters Project\Server\Server\bin\x86\Debug\ArbitorServer.pdb

@@ -1,0 +1,5 @@
+C:\Masters Project\Server\ArbitorServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Masters Project\Server\ArbitorServer\bin\Debug\ArbitorServer.dll
+C:\Masters Project\Server\ArbitorServer\bin\Debug\ArbitorServer.pdb
+C:\Masters Project\Server\ArbitorServer\obj\Debug\ArbitorServer.dll
+C:\Masters Project\Server\ArbitorServer\obj\Debug\ArbitorServer.pdb

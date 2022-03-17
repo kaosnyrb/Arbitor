@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{062A8011-2AFD-4AF8-988B-5869DE59E14D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbitorServer", "ArbitorServer\ArbitorServer.csproj", "{0D3B98EC-740B-4921-ADEB-7B44E9555453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Debug|x86.ActiveCfg = Debug|x86
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Debug|x86.Build.0 = Debug|x86
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Release|Any CPU.ActiveCfg = Release|x86
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Release|x86.ActiveCfg = Release|x86
+		{062A8011-2AFD-4AF8-988B-5869DE59E14D}.Release|x86.Build.0 = Release|x86
+		{34543C75-A542-4532-905E-1C23FE74451B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{34543C75-A542-4532-905E-1C23FE74451B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{34543C75-A542-4532-905E-1C23FE74451B}.Debug|x86.ActiveCfg = Debug|x86
+		{34543C75-A542-4532-905E-1C23FE74451B}.Release|Any CPU.ActiveCfg = Release|x86
+		{34543C75-A542-4532-905E-1C23FE74451B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{34543C75-A542-4532-905E-1C23FE74451B}.Release|x86.ActiveCfg = Release|x86
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0D3B98EC-740B-4921-ADEB-7B44E9555453}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

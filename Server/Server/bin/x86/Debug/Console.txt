@@ -1,0 +1,12 @@
+------------Server Log   12/06/2011 14:20:53 ----------------
+Map Loaded
+00:00:03.7658949 Client Connected
+Client Player connected
+Orc 1 Respawning
+Player 0 qued for raid
+Orc 3 Respawning
+00:00:57.6455567 Client Connected
+Client Playera connected
+Player 7 qued for raid
+Client Playera disconnected
+Client Player disconnected
